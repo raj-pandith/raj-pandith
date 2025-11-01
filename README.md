@@ -1,21 +1,117 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajpandith/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Raj Pandith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajpandith1945@gmail.com) 
+###
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raj-pandith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raj-pandith&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-pandith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="left">Hi, I'm Raj Pandith</h1>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raj-pandith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=raj-pandith&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="right">DSA | Full Stack Developer</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=raj-pandith&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="left" height="201" src="https://media.licdn.com/dms/image/v2/D5603AQEWnaQvSIVgAg/profile-displayphoto-shrink_800_800/B56ZbyyrFwGgAk-/0/1747830093823?e=1763596800&v=beta&t=gVANkO3ARiNdj2HsEIF7yIe1A1Qm8Qa8ZVj0SRiIGps"  />
+
+###
+
+<p align="left">Hi, I’m Raj Pandith 👋 — a Java Full-Stack Developer who loves turning ideas into scalable code.<br>I’ve built projects using Spring Boot, React, Docker, Redis, and SQL, focusing on performance and real-time interaction. My internship experience at GeeksforGeeks, Accenture, and Kun Solutions helped me strengthen backend APIs, integrate frontend systems, and follow secure SDLC practices.<br>I’m always exploring new technologies and improving my DSA and system design skills. Check out my pinned projects — CodeClash and HealthCare24 — to see my approach to building impactful, production-ready applications.</p>
+
+###
+
+<br clear="both">
+
+<h3 align="left">My Time in Contrubution ?</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raj-pandith/raj-pandith/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raj-pandith/raj-pandith/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raj-pandith/raj-pandith/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h3 align="left">Technologies which i use ?</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="43" alt="docker logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="43" alt="redis logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="43" alt="spring logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="43" alt="postgresql logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="43" alt="mongodb logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="43" alt="java logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="43" alt="cplusplus logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="43" alt="php logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="43" alt="redux logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="43" alt="materialui logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="43" alt="bootstrap logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="43" alt="canva logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="43" alt="vscode logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="43" alt="intellij logo"  />
+</div>
+
+###
+
+<h3 align="left">My Contributions !</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=raj-pandith&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=4&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-pandith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=raj-pandith&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-pandith&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h3 align="left">Let's connect ?</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rajpandith/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="rajpandith1945@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
