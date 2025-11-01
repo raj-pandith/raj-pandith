@@ -1,8 +1,12 @@
+<br clear="both">
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <h1 align="left">Hi, I'm Raj Pandith</h1>
 
@@ -26,6 +30,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raj-pandith/raj-pandith/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raj-pandith/raj-pandith/output/pacman-contribution-graph.svg">
@@ -34,9 +40,13 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">Technologies which i use ?</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="43" alt="docker logo"  />
@@ -86,6 +96,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">My Contributions !</h3>
 
 ###
@@ -101,9 +113,13 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">Let's connect ?</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajpandith/" target="_blank">
