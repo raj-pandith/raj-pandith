@@ -24,19 +24,9 @@
 
 <p align="left">Hi, I’m Raj Pandith 👋 — a Java Full-Stack Developer who loves turning ideas into scalable code.<br>I’ve built projects using Spring Boot, React, Docker, Redis, and SQL, focusing on performance and real-time interaction. My internship experience at GeeksforGeeks, Accenture, and Kun Solutions helped me strengthen backend APIs, integrate frontend systems, and follow secure SDLC practices.<br>I’m always exploring new technologies and improving my DSA and system design skills. Check out my pinned projects — CodeClash and HealthCare24 — to see my approach to building impactful, production-ready applications.</p>
 
-###
 
 <br clear="both">
-
-<h3 align="left">My Time in Contrubution ?</h3>
-
 ###
-
-<img src="https://raw.githubusercontent.com/raj-pandith/raj-pandith/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <h3 align="left">Technologies which i use ?</h3>
 
