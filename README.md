@@ -26,7 +26,7 @@
 
 
 <br clear="both">
-###
+
 
 <h3 align="left">Technologies which i use ?</h3>
 
