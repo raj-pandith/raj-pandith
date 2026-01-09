@@ -2,7 +2,7 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+</div> 
 
 ###
 
@@ -16,11 +16,7 @@
 
 <h3 align="right">DSA | Full Stack Developer</h3>
 
-###
 
-<img align="left" height="207" src="https://media.licdn.com/dms/image/v2/D5603AQEWnaQvSIVgAg/profile-displayphoto-shrink_800_800/B56ZbyyrFwGgAk-/0/1747830093823?e=1763596800&v=beta&t=gVANkO3ARiNdj2HsEIF7yIe1A1Qm8Qa8ZVj0SRiIGps"  />
-
-###
 
 <p align="left">Hi, I’m Raj Pandith 👋 — a Java Full-Stack Developer who loves turning ideas into scalable code.<br>I’ve built projects using Spring Boot, React, Docker, Redis, and SQL, focusing on performance and real-time interaction. My internship experience at GeeksforGeeks, Accenture, and Kun Solutions helped me strengthen backend APIs, integrate frontend systems, and follow secure SDLC practices.<br>I’m always exploring new technologies and improving my DSA and system design skills. Check out my pinned projects — CodeClash and HealthCare24 — to see my approach to building impactful, production-ready applications.</p>
 
