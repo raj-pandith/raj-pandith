@@ -31,7 +31,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg" height="43" alt="docker logo"></img>
+  <img src="https://devicon-website.vercel.app/api/apachekafka/original-wordmark.svg?color=%23FFFFFF" height="70" alt="kafka logo"></img>
+   <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="43" alt="docker logo"  />
   <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="43" alt="redis logo"  />
