@@ -18,7 +18,7 @@
 
 
 
-<p align="left">Hi, I’m Raj Pandith 👋 — a Full-Stack Developer who loves turning ideas into scalable code.<br>I’ve built projects using Spring Boot, React, Docker, Redis, and SQL, focusing on performance and real-time interaction. My internship experience at GeeksforGeeks, Accenture, and Kun Solutions helped me strengthen backend APIs, integrate frontend systems, and follow secure SDLC practices.<br>I’m always exploring new technologies and improving my DSA and system design skills. Check out my pinned projects — CodeClash and HealthCare24 — to see my approach to building impactful, production-ready applications.</p>
+<p align="left">Hi, I’m Raj Pandith 👋 — a Full-Stack Developer who loves turning ideas into scalable code.<br>I’ve built projects using Spring Boot, Kafka, React, Docker, Redis, and SQL, focusing on performance and real-time interaction. My internship experience at GeeksforGeeks, Accenture, and Kun Solutions helped me strengthen backend APIs, integrate frontend systems, and follow secure SDLC practices.<br>I’m always exploring new technologies and improving my DSA and system design skills. Check out my pinned projects — CodeClash and HealthCare24 — to see my approach to building impactful, production-ready applications.</p>
 
 
 <br clear="both">
